@@ -56,6 +56,3 @@ app = QApplication(sys.argv)
 calculator = SpeedCalculator()
 calculator.show()
 sys.exit(app.exec())
-
-
-
